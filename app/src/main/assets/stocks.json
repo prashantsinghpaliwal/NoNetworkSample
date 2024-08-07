@@ -1,0 +1,14 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "price": 145.09,
+    "change": -0.23
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "price": 2734.57,
+    "change": 15.45
+  }
+]
